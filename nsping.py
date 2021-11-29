@@ -1,7 +1,3 @@
-# -*- coding=utf-8 -*-
-# @Time: 2021/5/30 9:50
-# @Author: 回梦
-# @Cnblogs: https://www.lele8.me
 import threading
 import subprocess
 import queue
